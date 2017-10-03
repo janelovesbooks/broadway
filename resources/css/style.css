@@ -1,0 +1,49 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+h1 {
+  color: white;
+  font-size: 70px;
+  font-weight: bold;
+}
+nav {
+  color: white;
+  font-size: 18px;
+  text-decoration: underline;
+}
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.process p,
+.rest p {
+  font-size: 14px;
+}
+.rest h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("./building.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+span {
+  font-size: 18px !important;
+  text-decoration: underline !important;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+.header {
+  background-image: url("./building.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
